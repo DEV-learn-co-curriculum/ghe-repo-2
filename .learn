@@ -1,4 +1,5 @@
 ---
-language:
-  - ruby
-  - javascript
+language: &1
+- ruby
+- javascript
+languages: *1
